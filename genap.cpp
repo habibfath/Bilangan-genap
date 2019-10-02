@@ -12,4 +12,12 @@ int main()
         }else{
         //tidak ada aksi di dalamnya
         }
+
+    int a;
+
+    for(a=1; a<11; a++){
+        if(a%2==0){
+            cout << a << " ";
+        }
+    }
 }
